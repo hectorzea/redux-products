@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Jugo de Naranjarrxxxx",
+      "price": "4444",
+      "id": 3
+    },
+    {
+      "name": "Rib Eye 800g",
+      "price": "2002",
+      "id": 4
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "tasa",
+      "price": 2111,
+      "id": 6
+    },
+    {
+      "name": "piñita",
+      "price": 212,
+      "id": 7
+    },
+    {
+      "name": "sss",
+      "price": 220,
+      "id": 8
+    },
+    {
+      "name": "xd",
+      "price": 1,
+      "id": 9
+    },
+    {
+      "name": "dd",
+      "price": 2,
+      "id": 10
+    }
+  ]
+}
